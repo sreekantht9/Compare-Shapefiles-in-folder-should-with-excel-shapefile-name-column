@@ -1,0 +1,2 @@
+# Compare Shapefiles in a folder and should match with excel file like "shapefile-name" column and mismatched shapefiles should write in excel file ['S.NO', 'ExcelFileName', 'ExcelGeometryType',
+                                                                                                                                                     'Shapefile_Folder', 'Shapefile_GeometryType', 'MatchStatus']
